@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Traunero</h1>
 <h3 align="center">A passionate software engineer from San Diego</h3>
 
-- 👨‍💻 All of my projects are available at [joetraunero.netlify.app](joetraunero.netlify.app)
+- 👨‍💻 All of my projects are available at https://joetraunero.netlify.app
 
 - 📫 How to reach me **joetraunero@gmail.com**
 
